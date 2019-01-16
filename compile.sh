@@ -1,2 +1,2 @@
 echo "compiling..."
-gcc main.c -o ../../atomica
+gcc main.c -o ./atomica
